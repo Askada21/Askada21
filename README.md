@@ -42,6 +42,34 @@ Connect with me here! I'm open to new job opportunities and projects:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daria.ospv)
 
 
+<!-- HINTS: 🌸 r e s o u r c e s 🌸
+→ My GitHub profile https://github.com/xsol05
+→ Forrest Knight’s GitHub profile https://github.com/ForrestKnight
+→ Github README examples
+https://dev.to/jayehernandez/3-ways-t...
+https://dev.to/m0nica/how-to-create-a...
+→ GitHub generator
+https://rahuldkjain.github.io/gh-prof...
+https://gprm.itsvg.in/
+→ GitHub stats https://github.com/anuraghazra/github...
+→ Badges https://github.com/Ileriayo/markdown-...
+→ YouTube cards https://github.com/DenverCoder1/githu...
+
+🎨 l i n k s 🎨
+→ Learn to code with Scrimba https://scrimba.com/?via=MagdelineHuang
+→ Practise coding complex software with CodeCrafters https://app.codecrafters.io/join?via=...
+→ Ultrahuman Ring AIR http://ultrahuman.com/magdelinehuang
+→ MOFT laptop carry sleeve https://bit.ly/3tc4fzE
+→ MOFT adhesive cooling laptop stand https://bit.ly/3RyuE56
+→ Python Udemy course https://click.linksynergy.com/link?id...
+→ JavaScript Udemy course https://click.linksynergy.com/link?id...
+→ Learn Computer Science with Brilliant https://brilliant.org/MagdelineHuang/
+→ Learn new skills with Skillshare https://skl.sh/magdelinehuang03241
+→ Notion templates https://magdeline.gumroad.com/ 
+
+TO CHANGE IT: GPRM -->
+
+
 
 
 
