@@ -31,7 +31,7 @@
 
 Connect with me here! I'm open to new job opportunities and projects:
 
-- **Professional Email:** [2424428@gmail.com](mailto:2424428@gmail.com)
+- **Professional Email:** [gcdariaosypova@gmail.com](mailto:gcdariaosypova@gmail.com)
 - **Academic Email:** [A00028295@myTUDublin.ie](mailto:A00028295@myTUDublin.ie)
 - **LinkedIn:** [Daria Osypova](https://www.linkedin.com/in/daria-osypova-31906a2aa/)
 
@@ -39,7 +39,7 @@ Connect with me here! I'm open to new job opportunities and projects:
 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daria-osypova-31906a2aa) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2424428@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gcdariaosypova@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daria.ospv)
 
 
