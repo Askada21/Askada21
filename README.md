@@ -1,6 +1,10 @@
 # Hi, I'm Daria Osypova 💻✨
+🎓 Data Science & AI at Technological University Dublin <br>
+🛠 Interested in learning Python and SQL <br>
+💼 Currently looking for a Data Analyst internship in Ireland
 
-- First-Year Bachelor’s student in Data Science & AI at Technological University Dublin
+## 🚀 About Me
+- Second-Year Bachelor’s student in Data Science & AI at Technological University Dublin
 - Aspiring Software Engineer
 - Presently developing my skills in Python, SQL
 - Previously worked with C, Java, JavaScript and HTML/CSS through academic and personal projects
