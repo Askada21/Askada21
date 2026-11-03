@@ -34,6 +34,15 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Askada21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 📊 Activity & Statistics
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Askada21&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+
+
+
 ## 📞 Contact Me:
 
 Connect with me here! I'm open to new job opportunities and projects:
