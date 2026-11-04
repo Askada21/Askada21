@@ -34,11 +34,11 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Askada21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 📊 Activity
+<!-- ## 📊 Activity
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Askada21&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
+</p> -->
 
 
 
