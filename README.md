@@ -12,6 +12,17 @@
 - Currently seeking opportunities to further develop my skills through internships, projects and collaborations with professionals in the technology industry
 
 
+## 📞 Contact Me:
+
+Connect with me here! I'm open to new job opportunities and projects:
+
+- **Professional Email:** [gcdariaosypova@gmail.com](mailto:gcdariaosypova@gmail.com)
+- **Academic Email:** [A00028295@myTUDublin.ie](mailto:A00028295@myTUDublin.ie)
+- **LinkedIn:** [Daria Osypova](https://www.linkedin.com/in/daria-osypova-31906a2aa/)
+
+<!-- Projects-->
+
+
 
 ## 💻 Tech Stack
 
@@ -43,14 +54,6 @@
 
 
 
-
-## 📞 Contact Me:
-
-Connect with me here! I'm open to new job opportunities and projects:
-
-- **Professional Email:** [gcdariaosypova@gmail.com](mailto:gcdariaosypova@gmail.com)
-- **Academic Email:** [A00028295@myTUDublin.ie](mailto:A00028295@myTUDublin.ie)
-- **LinkedIn:** [Daria Osypova](https://www.linkedin.com/in/daria-osypova-31906a2aa/)
 
 
 
