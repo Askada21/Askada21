@@ -64,7 +64,7 @@ Connect with me here! I'm open to new job opportunities and projects:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gcdariaosypova@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daria.ospv)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Askada21&color=blueviolet&style=flat-square&label=Profile+Views)
 <!-- HINTS: 🌸 r e s o u r c e s 🌸
 → My GitHub profile https://github.com/xsol05
 → Forrest Knight’s GitHub profile https://github.com/ForrestKnight
